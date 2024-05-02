@@ -1,0 +1,30 @@
+
+.cca{
+    border: 2px solid blue;
+    display: inline-block;
+    border-radius: 15px;
+    width: 400px;
+    box-shadow: 2px 3px 2px 3px yellow;
+    display: flex;
+    flex-direction: column;
+    color: yellow;
+    text-align: center;
+    font-weight: lighter;
+    font-family:monospace;
+    font-size: 20px;
+    justify-content: center;
+}
+#product{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body{
+    background-image: url(./Images/pexels-azim-islam-460924-1210276.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid blue;
+    
+}
